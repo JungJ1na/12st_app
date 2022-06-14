@@ -13,6 +13,7 @@ public class Movie {
     String salesInten;
     String salesChange;
     String audiAcc;
+    String audiCnt;
     String scrnCnt;
     String showCnt;
 }
